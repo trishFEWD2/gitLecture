@@ -2,3 +2,8 @@
     padding: 0;
     margin: 0;
 }
+/* added following rule on github.com */
+
+body {
+    font-family: Tahoma, sans-serif;
+}
